@@ -1,0 +1,8 @@
+{
+  "name": "五岳阅卷",
+  "url_contains": ["wylkyj.com"],
+  "image": [".imgSection img"],
+  "input": ["#inputOne"],
+  "submit": ["button.btnSubmit"],
+  "abnormal": ["button:has-text(\"标记异常试卷\")"]
+}
